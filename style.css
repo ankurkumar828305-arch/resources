@@ -1,8 +1,14 @@
 body{
-    color: white;
+    color: black;
     background-color: black;
+    border-radius: 4px;
 }
 header{
-    color: crimson;
+    color: rgb(238, 111, 14);
+    
+}
+footer{
+    padding-top: 290px;
+    color: chartreuse;
     
 }
